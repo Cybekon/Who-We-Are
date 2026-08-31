@@ -1,3 +1,3 @@
 # Who-We-Are
-We are CybFend
+We are Cybekon
 The Future of our society.
